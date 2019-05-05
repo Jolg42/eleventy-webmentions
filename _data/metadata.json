@@ -1,17 +1,17 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "domain": "myurl.com",
+  "title": "Joël's Blog",
+  "url": "https://eleventy.j42.fr",
+  "domain": "eleventy.j42.fr",
   "description": "I am writing about my experiences as a naval navel-gazer.",
   "feed": {
     "subtitle": "I am writing about my experiences as a naval navel-gazer.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "url": "https://eleventy.j42.fr/feed/feed.xml",
+    "id": "https://eleventy.j42.fr/"
   },
   "author": {
-    "name": "Your Name Here",
+    "name": "Joël",
     "email": "youremailaddress@example.com"
   }
 }
